@@ -2,14 +2,15 @@
 
 ## 📊 Project Overview
 
-This project is a Power BI dashboard analyzing logistics performance across multiple areas including orders, drivers, hubs, and vehicles.
+This project is a Power BI dashboard analyzing logistics performance across orders, delivery, drivers, hubs, and vehicles.
+It helps logistics companies identify delays, optimize operations, and improve delivery efficiency using data-driven insights.
 
 ---
 
 ## 🎯 Business Problem
 
 Logistics companies struggle to monitor delivery efficiency, driver performance, and hub capacity.
-This dashboard helps identify delays, improve operations, and increase customer satisfaction.
+This dashboard helps identify bottlenecks, reduce delays, and improve customer satisfaction.
 
 ---
 
@@ -18,7 +19,7 @@ This dashboard helps identify delays, improve operations, and increase customer 
 * Total Orders: 1169
 * On-Time Delivery Rate: 80.8%
 * Customer Satisfaction (CSAT): 89.9%
-* Avg Delivery Time: 36.38 hrs
+* Average Delivery Time: 36.38 hrs
 
 ---
 
@@ -56,6 +57,14 @@ This dashboard helps identify delays, improve operations, and increase customer 
 * Experienced drivers perform better
 * Certain drivers contribute to higher delays
 * Vehicle usage varies across models
+
+---
+
+## 📊 Business Impact
+
+* Improves visibility into delivery performance
+* Helps reduce delays by identifying bottlenecks
+* Supports better decision-making for logistics operations
 
 ---
 
